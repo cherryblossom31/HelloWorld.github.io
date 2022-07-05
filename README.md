@@ -4,7 +4,7 @@ website building lesson
 -------
 
 Checklist
--This is a list
+- This is a list
 
 To do list ... a differnt organization
 - [] this must be done still
